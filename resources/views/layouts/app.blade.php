@@ -3,10 +3,11 @@
 
 <head>
     <meta charset="utf-8">
-    <title>@yield('title', 'HighTech - IT Solutions Website Template')</title>
+    <title>@yield('title', 'priram.com - Prima Raharja Mulia')</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
+    <link rel="icon" href="img/favicon.png">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
