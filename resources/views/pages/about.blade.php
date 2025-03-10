@@ -119,7 +119,7 @@
                             </div>
                             <div class="team-icon d-flex justify-content-center pb-4">
                                 <a class="btn btn-square btn-secondary text-white rounded-circle m-1" href="https://web.facebook.com/munggi.priramdhona/"><i class="fab fa-facebook-f"></i></a>
-                                {{-- <a class="btn btn-square btn-secondary text-white rounded-circle m-1" href=""><i class="fab fa-twitter"></i></a> --}}
+                                <a class="btn btn-square btn-secondary text-white rounded-circle m-1" href="https://x.com/priramdona"><i class="fab fa-twitter"></i></a>
                                 <a class="btn btn-square btn-secondary text-white rounded-circle m-1" href="https://www.instagram.com/priramdhona/"><i class="fab fa-instagram"></i></a>
                                 <a class="btn btn-square btn-secondary text-white rounded-circle m-1" href="https://www.linkedin.com/in/munggi-priramdona-7aa02913b/"><i class="fab fa-linkedin-in"></i></a>
                             </div>
@@ -137,10 +137,10 @@
                                 <p class="m-0">Management Contributor</p>
                             </div>
                             <div class="team-icon d-flex justify-content-center pb-4">
-                                <a class="btn btn-square btn-secondary text-white rounded-circle m-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                {{-- <a class="btn btn-square btn-secondary text-white rounded-circle m-1" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square btn-secondary text-white rounded-circle m-1" href=""><i class="fab fa-twitter"></i></a>
                                 <a class="btn btn-square btn-secondary text-white rounded-circle m-1" href=""><i class="fab fa-instagram"></i></a>
-                                <a class="btn btn-square btn-secondary text-white rounded-circle m-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn btn-square btn-secondary text-white rounded-circle m-1" href=""><i class="fab fa-linkedin-in"></i></a> --}}
                             </div>
                         </div>
                     </div>
@@ -156,10 +156,10 @@
                                 <p class="m-0">Designation</p>
                             </div>
                             <div class="team-icon d-flex justify-content-center pb-4">
-                                <a class="btn btn-square btn-secondary text-white rounded-circle m-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                {{-- <a class="btn btn-square btn-secondary text-white rounded-circle m-1" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square btn-secondary text-white rounded-circle m-1" href=""><i class="fab fa-twitter"></i></a>
                                 <a class="btn btn-square btn-secondary text-white rounded-circle m-1" href=""><i class="fab fa-instagram"></i></a>
-                                <a class="btn btn-square btn-secondary text-white rounded-circle m-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn btn-square btn-secondary text-white rounded-circle m-1" href=""><i class="fab fa-linkedin-in"></i></a> --}}
                             </div>
                         </div>
                     </div>
