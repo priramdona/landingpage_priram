@@ -16,10 +16,10 @@
                     <div class="carousel-caption">
                         <div class="container carousel-content">
                             <h6 class="text-secondary h4 animated fadeInUp">Vision</h6>
-                            <h1 class="text-white display-1 mb-4 animated fadeInRight">An Innovative IT Solutions Agency</h1>
+                            <h1 class="text-white display-1 mb-4 animated fadeInRight">An Innovative IT Solutions</h1>
                             <p class="mb-4 text-white fs-5 animated fadeInDown">We aim to be part of your career journey, helping you take steps closer to your professional dreams.</p>
-                            <a href="" class="me-2"><button type="button" class="px-4 py-sm-3 px-sm-5 btn btn-primary rounded-pill carousel-content-btn1 animated fadeInLeft">Read More</button></a>
-                            <a href="" class="ms-2"><button type="button" class="px-4 py-sm-3 px-sm-5 btn btn-primary rounded-pill carousel-content-btn2 animated fadeInRight">Contact Us</button></a>
+                            {{-- <a href="" class="me-2"><button type="button" class="px-4 py-sm-3 px-sm-5 btn btn-primary rounded-pill carousel-content-btn1 animated fadeInLeft">Read More</button></a>
+                            <a href="" class="ms-2"><button type="button" class="px-4 py-sm-3 px-sm-5 btn btn-primary rounded-pill carousel-content-btn2 animated fadeInRight">Contact Us</button></a> --}}
                         </div>
                     </div>
                 </div>
@@ -30,8 +30,8 @@
                             <h6 class="text-secondary h4 animated fadeInUp">Mision</h6>
                             <h1 class="text-white display-1 mb-4 animated fadeInLeft">Quality Digital Services You Really Need!</h1>
                             <p class="mb-4 text-white fs-5 animated fadeInDown">Our mission is to make it easier for everyone, We believe that every individual has great potential, and we here to help showcase that potential to the fullest.</p>
-                            <a href="" class="me-2"><button type="button" class="px-4 py-sm-3 px-sm-5 btn btn-primary rounded-pill carousel-content-btn1 animated fadeInLeft">Read More</button></a>
-                            <a href="" class="ms-2"><button type="button" class="px-4 py-sm-3 px-sm-5 btn btn-primary rounded-pill carousel-content-btn2 animated fadeInRight">Contact Us</button></a>
+                            {{-- <a href="" class="me-2"><button type="button" class="px-4 py-sm-3 px-sm-5 btn btn-primary rounded-pill carousel-content-btn1 animated fadeInLeft">Read More</button></a>
+                            <a href="" class="ms-2"><button type="button" class="px-4 py-sm-3 px-sm-5 btn btn-primary rounded-pill carousel-content-btn2 animated fadeInRight">Contact Us</button></a> --}}
                         </div>
                     </div>
                 </div>
