@@ -425,7 +425,7 @@
                     <div class="team-content">
                         <div class="team-img-icon">
                             <div class="team-img rounded-circle">
-                                <img src="img/cmn.jpg" class="img-fluid w-100 rounded-circle" alt="">
+                                <img src="img/cm.jpg" class="img-fluid w-100 rounded-circle" alt="">
                             </div>
                             <div class="team-name text-center py-3">
                                 <h4 class="">Camelia Nurfitriana</h4>
