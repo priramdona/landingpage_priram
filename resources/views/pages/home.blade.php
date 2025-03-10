@@ -401,12 +401,12 @@
                 <h5 class="text-primary">Our Team</h5>
                 <h1>Meet our expert Team</h1>
             </div>
-            {{-- <div class="owl-carousel team-carousel wow fadeIn" data-wow-delay=".5s"> --}}
+            <div class="team-carousel wow fadeIn" data-wow-delay=".5s">
                 <div class="rounded team-item">
                     <div class="team-content">
                         <div class="team-img-icon">
                             <div class="team-img rounded-circle">
-                                <img src="img/Munggi Priramdona (Blue).jpg" class="img-fluid w-30 rounded-circle" alt="">
+                                <img src="img/team-1.jpg" class="img-fluid w-100 rounded-circle" alt="">
                             </div>
                             <div class="team-name text-center py-3">
                                 <h4 class="">Munggi Priramdona</h4>
@@ -478,7 +478,7 @@
                         </div>
                     </div>
                 </div> --}}
-            {{-- </div> --}}
+            </div>
         </div>
     </div>
     <!-- Team End -->
