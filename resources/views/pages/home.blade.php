@@ -401,7 +401,7 @@
                 <h5 class="text-primary">Our Team</h5>
                 <h1>Meet our expert Team</h1>
             </div>
-            <div class="team-carousel wow fadeIn" data-wow-delay=".5s">
+            <div class="owl-carousel team-carousel wow fadeIn" data-wow-delay=".5s">
                 <div class="rounded team-item">
                     <div class="team-content">
                         <div class="team-img-icon">
